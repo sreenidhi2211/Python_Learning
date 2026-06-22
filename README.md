@@ -1,5 +1,5 @@
 
-# Python_learning
+# Python_Learning
 
 A personal repository for relearning Python from the basics. This repo contains notes, exercises, example code, and small projects I use to practice and track progress as I rebuild my Python skills.
 
