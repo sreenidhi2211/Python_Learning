@@ -1,7 +1,9 @@
 
 # Python_Learning
 
-A personal repository for relearning Python from the basics. This repo contains notes, exercises, example code, and small projects I use to practice and track progress as I rebuild my Python skills.
+A personal repository for relearning Python from the basics. 
+
+This repo contains notes, exercises, example code, and small projects I use to practice and track progress as I rebuild my Python skills.
 
 ## About
 
@@ -17,11 +19,20 @@ A personal repository for relearning Python from the basics. This repo contains 
 - Collect patterns, notes, and reference materials for future review.
 - Track progress by committing dated work and short reflections.
 
+## Repository Structure
+Python_Learning/
+├── README.md                         
+
+├── Basics
+│   ├── README.md                       ← Phase summary and overview
+│   ├── IntroductionToPython/
+│   │   └── IntroductionToPython-Notes.pdf
+│   │   └──IntroductionToPython.ipynb
 
 ## Getting started
 1. Clone the repository:
    ```
-   git clone https://github.com/sreenidhi2211/Python_learning.git
+   git clone https://github.com/sreenidhi2211/Python_Learning.git
    cd Python_learning
    ```
 
@@ -36,10 +47,3 @@ A personal repository for relearning Python from the basics. This repo contains 
      python -m venv .venv
      .\.venv\Scripts\Activate.ps1
      ```
-
-3. Install dependencies (if any):
-   - Create a `requirements.txt` or `pyproject.toml` when you start using third-party libraries:
-     ```
-     pip install -r requirements.txt
-     ```
-
