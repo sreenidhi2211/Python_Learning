@@ -1,5 +1,4 @@
-```
-
+# Basics
 
 ## Topics Covered
 
@@ -41,4 +40,3 @@
 **Status:** ⏳ Pending
 * **Functions:** Defining reusable blocks of code using the `def` keyword.
 * **Advanced Arguments:** Working with default values, keyword arguments, and arbitrary argument lists.
-```
