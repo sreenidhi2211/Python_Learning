@@ -34,9 +34,11 @@ Python_Learning/
 ├── Basics
 │   ├── README.md                       ← Summary and overview
 │   ├── Introduction To Python/
-│   │   └── Introduction-To-Python-Notes.pdf ← Notes
+│   │   └── Introduction-To-Python.pdf ← Notes
 │   │   └──IntroductionToPython.ipynb  ← Learning colab notebook (.ipynb)
-
+|   ├── Keywords,Variables and DataTypes/
+│   │   └──Keywords,Variables and DataTypes.pdf
+│   │   └──Keywords,VariablesandDataTypes.ipynb  
 ├── Practice  ← Exercise Notebooks(.ipynb)
 
 ```
