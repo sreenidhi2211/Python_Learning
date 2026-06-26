@@ -39,6 +39,9 @@ Python_Learning/
 |   ├── Keywords,Variables and DataTypes/
 │   │   └──Keywords,Variables and DataTypes.pdf
 │   │   └──Keywords,VariablesandDataTypes.ipynb  
+|   ├── Conditional Statements and Loops/
+│   │   └──Conditional Statements and Loops.pdf
+
 ├── Practice  ← Exercise Notebooks(.ipynb)
 
 ```
