@@ -41,8 +41,10 @@ Python_Learning/
 │   │   └──Keywords,VariablesandDataTypes.ipynb  
 |   ├── Conditional Statements and Loops/
 │   │   └──Conditional Statements and Loops.pdf
+│   │   └──ConditionalStatementsandLoops.ipynb
 
 ├── Practice  ← Exercise Notebooks(.ipynb)
+│   ├──PracticeConditionalStatementsAndLoops.ipynb
 
 ```
 
