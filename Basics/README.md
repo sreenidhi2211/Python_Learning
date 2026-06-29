@@ -36,7 +36,11 @@
 
 ******
 
-### 5. Functions & Advanced Concepts
+### 5. Lists
 **Status:** ⏳ Pending
-* **Functions:** Defining reusable blocks of code using the `def` keyword.
-* **Advanced Arguments:** Working with default values, keyword arguments, and arbitrary argument lists.
+* **Core Properties:** Creating ordered, mutable collections that can store mixed data types and allow duplicate values.
+* **Accessing & Slicing:** Retrieving elements using positive or negative indexing, and extracting specific ranges using the slicing operator..
+* **Modifying Elements:** Updating values directly by index, and adding new elements using `append()`, `insert()`, and `extend()`.
+* **Removing Items:** Deleting elements by value or index using built-in methods like `remove()`, `pop()`, `del`, and `clear()`.
+* **Advanced Operations:** Iterating through list elements using `for` loops and locating specific items with the `index()` method.
+
