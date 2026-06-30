@@ -48,6 +48,6 @@ Python_Learning/
 
 ├── Practice  ← Exercise Notebooks(.ipynb)
 │   ├──PracticeConditionalStatementsAndLoops.ipynb
-
+│   ├──PracticeLists.ipynb
 ```
 
