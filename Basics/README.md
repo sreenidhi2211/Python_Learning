@@ -37,10 +37,17 @@
 ******
 
 ### 5. Lists
-**Status:** ⏳ Pending
+**Status:** ✅ Complete
 * **Core Properties:** Creating ordered, mutable collections that can store mixed data types and allow duplicate values.
 * **Accessing & Slicing:** Retrieving elements using positive or negative indexing, and extracting specific ranges using the slicing operator..
 * **Modifying Elements:** Updating values directly by index, and adding new elements using `append()`, `insert()`, and `extend()`.
 * **Removing Items:** Deleting elements by value or index using built-in methods like `remove()`, `pop()`, `del`, and `clear()`.
 * **Advanced Operations:** Iterating through list elements using `for` loops and locating specific items with the `index()` method.
 
+### 6. Python Tuples
+**Status:** ✅ Complete
+* **Core Properties:** Creating ordered, immutable collections using parentheses or the `tuple()` constructor, including single-item structures and packing/unpacking mechanics.
+* **Accessing & Slicing:** Retrieving elements via positive or negative indexing, extracting ranges with slicing, and verifying items using the `in` operator.
+* **Immutability & Workarounds:** Navigating read-only constraints, modifying nested mutable elements (like lists), and applying list conversion workarounds to update data.
+* **Removing Elements:** Deleting entire tuple objects from memory using the `del` keyword or converting to a list to remove individual items.
+* **Advanced Operations:** Utilizing sequential iteration, matching item patterns with `count()` and `index()`, concatenating tuples, and using built-in functions like `min()`, `max()`,`sum()`.
