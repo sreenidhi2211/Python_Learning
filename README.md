@@ -45,9 +45,13 @@ Python_Learning/
 |   ├──Lists/
 │   │   └──Lists.pdf
 │   │   └──Lists.ipynb
+|   ├──Tuples/
+│   │   └──Tuples.pdf
+│   │   └──Tuples.ipynb
 
 ├── Practice  ← Exercise Notebooks(.ipynb)
 │   ├──PracticeConditionalStatementsAndLoops.ipynb
 │   ├──PracticeLists.ipynb
+│   ├──PracticeTuples.ipynb
 ```
 
