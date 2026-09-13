@@ -48,10 +48,14 @@ Python_Learning/
 |   ├──Tuples/
 │   │   └──Tuples.pdf
 │   │   └──Tuples.ipynb
+|   ├──Sets/
+│   │   └──Sets.pdf
+│   │   └──Sets.ipynb
 
 ├── Practice  ← Exercise Notebooks(.ipynb)
 │   ├──PracticeConditionalStatementsAndLoops.ipynb
 │   ├──PracticeLists.ipynb
 │   ├──PracticeTuples.ipynb
+│   ├──PracticeSets.ipynb
 ```
 
