@@ -51,3 +51,14 @@
 * **Immutability & Workarounds:** Navigating read-only constraints, modifying nested mutable elements (like lists), and applying list conversion workarounds to update data.
 * **Removing Elements:** Deleting entire tuple objects from memory using the `del` keyword or converting to a list to remove individual items.
 * **Advanced Operations:** Utilizing sequential iteration, matching item patterns with `count()` and `index()`, concatenating tuples, and using built-in functions like `min()`, `max()`,`sum()`.
+
+Here is the Markdown summary block for **Python Sets** to copy and paste directly into your `README.md`:
+
+### 7. Python Sets
+**Status:** ✅ Complete
+* **Core Properties:** Creating unordered, mutable collections of unique, immutable elements using curly brackets `{}` or the `set()` constructor.
+* **Access & Membership:** Iterating through elements with `for` loops and performing fast $O(1)$ membership testing using the `in` operator.
+* **Adding & Removing:** Modifying sets using `add()`, `update()`, `remove()`, `discard()`, `pop()`, and `clear()`.
+* **Mathematical Operations:** Executing set algebra including union (`|`), intersection (`&`), difference (`-`), and symmetric difference (`^`), along with their in-place update methods.
+* **Advanced Features:** Checking subset/superset relationships, sorting into lists, working with `frozenset` for immutable/nested sets, and writing set comprehensions.
+```
